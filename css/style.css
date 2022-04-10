@@ -29,7 +29,9 @@ main{
     background-size: contain;
     margin: 15px;
     border-radius: 10px;
+    cursor: pointer;
 }
+
 
 h1{
     font-size: 1.5rem;
